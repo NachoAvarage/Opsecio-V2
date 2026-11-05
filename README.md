@@ -1,7 +1,7 @@
 # Opsecio-V2
 ## Explore safe
-(Whatsmyname.app)
-(Haveibeenpwned.com)
-(Intelbase.is)
+(https://Whatsmyname.app)
+(https://Haveibeenpwned.com)
+(https://Intelbase.is)
 (https://grabify.link)
 (https://google.com)
