@@ -1,2 +1,2 @@
-<img width="1536" height="1024" alt="Lilla skjold med hvitt nøkkelhull" src="https://github.com/user-attachments/assets/709946af-135c-472b-b2d7-5a28eec89c34" />
+<img width="1230" height="1278" alt="Lilla skjoldlogo med nøkkelhull" src="https://github.com/user-attachments/assets/0b6deae3-636c-46bd-bb47-26af4191966f" />
 # Opsecio-V2
